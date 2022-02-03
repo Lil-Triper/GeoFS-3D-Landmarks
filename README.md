@@ -1,7 +1,7 @@
 # GeoFS-3D-Landmarks
 3D landmarks addon for GeoFS (currently only works in 2.#)
 ## Current Buildings
-* USS Intrepid
+* USS Intrepid (decoration purposes only)
 * JFK ATC
 * LAX ATC
 * LHR ATC
