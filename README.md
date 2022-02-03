@@ -8,12 +8,15 @@
 * CDG ATC
 * SFO ATC
 * MIA ATC
+* One World Trade Center
 * Gateway Arch
 * Sydney Opera House
 * The Shard
 * Space Needle
 * The Gherkin
+* Big Ben
 * Leaning Tower of Pisa
+* The Compass (fictional)
 
 ## Current Developers
 * AF267
