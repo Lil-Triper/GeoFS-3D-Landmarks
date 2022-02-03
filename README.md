@@ -26,3 +26,4 @@
 * Yotam Salmon - Original SkyX Code
 
 Copyright © 2022 - ExtendDevelopment Inc.
+ALL RIGHTS RESERVED
